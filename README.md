@@ -1,13 +1,13 @@
 # Pascal Processor Project
-*Jackson Randolph: jrando13@students.kennesaw.edu
+*Jackson Randolph: jrando13@students.kennesaw.edu*
 
-Kennesaw State University
+*Kennesaw State University*
 
-College of Computing and Software Engineering
+*College of Computing and Software Engineering*
 
-Department of Computer Science
+*Department of Computer Science*
 
-CS 4308/W01 Concepts of Programming Languages*
+*CS 4308/W01 Concepts of Programming Languages*
 
 ## Problem
 The study of compilers and interpreters is important to understanding the nature of programming languages, therefore this project aims to implement an interpreter for the Pascal language.
